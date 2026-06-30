@@ -1,0 +1,6 @@
+{
+    "user_not_found": "Foydalanuvchi topilmadi!",
+    "invalid_credentials": "Email yoki parol xato!",
+    "permission_denied": "Sizda ushbu amalni bajarish uchun huquq yo'q!",
+    "grade_success": "Baho muvaffaqiyatli qo'yildi."
+}
