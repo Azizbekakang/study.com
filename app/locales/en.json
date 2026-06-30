@@ -1,0 +1,6 @@
+{
+    "user_not_found": "User not found!",
+    "invalid_credentials": "Invalid email or password!",
+    "permission_denied": "Permission denied for this action!",
+    "grade_success": "Grade assigned successfully."
+}
